@@ -12,5 +12,8 @@ public class Utility {
 	  System.out.println("niiiiiiiiii");
 	  System.out.println("sjehgfis Hdfb c iefgc cu");
   }
+  public void m4() {
+	  System.out.println("jhvjhm");
+  }
   
 }
