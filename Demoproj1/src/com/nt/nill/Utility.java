@@ -16,4 +16,12 @@ public class Utility {
 	  System.out.println("jhvjhm");
   }
   
+
+  public void m2() {
+	  System.out.println("Utility.m2()");
+  }
+  public void m3() {
+	  System.out.println("jhjfku");
+  }
+
 }
